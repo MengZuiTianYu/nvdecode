@@ -1,0 +1,3 @@
+/home/wangxy/test_code/nvdecode/build/CMakeFiles/rebuild_cache.dir
+/home/wangxy/test_code/nvdecode/build/CMakeFiles/edit_cache.dir
+/home/wangxy/test_code/nvdecode/build/CMakeFiles/main.dir
